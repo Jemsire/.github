@@ -1,5 +1,3 @@
-*created on mobile will update soon with better links*
-
 # 🌌 Jemsire  
 Crafting immersive worlds, clever systems, and community-driven experiences.
 
@@ -56,8 +54,8 @@ We believe great software comes from experimentation, iteration, and players get
 ## 🌐 Community & Support
 Find us here:
 - **Discord:** *[Jemsire](https://discord.jemsire.com)*  
-- **GitHub Discussions:** *(once enabled)*  
-- **Itch.io / Steam:** *(future releases)*
+- **GitHub Discussions:** *Soon*  
+- **Itch.io:** *[Itch](https://tinytank800.itch.io/)*
 
 Feedback, bug reports, and suggestions shape our work—everyone’s invited to help build the worlds we create.
 
